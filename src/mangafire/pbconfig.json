@@ -1,0 +1,13 @@
+{
+  "name": "Manga Fire",
+  "version": "1.0.0",
+  "icon": "mangafire_icon.png",
+  "language": "en",
+  "contentRating": "everyone",
+  "developers": [
+    {
+      "name": "wynvern"
+    }
+  ],
+  "capabilities": []
+}
